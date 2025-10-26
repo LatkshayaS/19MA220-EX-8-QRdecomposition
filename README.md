@@ -1,4 +1,4 @@
-# EX-8- Algorithm for QR Decomposition
+# EX-8-ALGORITHM-FOR-QR-DECOMPOSITION
 ## AIM:
 To implement QR decomposition algorithm using the Gram-Schmidt method.
 ## EQUIPMENT'S REQUIRED:
